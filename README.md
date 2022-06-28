@@ -38,8 +38,4 @@ This image shows that weekday rider traffic peaks usually around commuting hours
 To add to these findings, this image shows that similar patterns are also noticed when genders are separated. ![User_trips_by_Gender_by_Weekday](https://user-images.githubusercontent.com/102105537/176080537-824cd405-70a5-4fc4-ac5c-f7aa1276f14d.png)
 
 # Summary
-The following findings are the most important takeaways from the research and the above results. These will be used to ensure that the project in De Moines, Iowa can be successful program.
-
-The main target for advertising is men, THey are the primary users.
-It is extremely important that bikes are located in densely populated areas.
-An incentivized program should be implemented. This could possibly encourage people to utilize the bikes during typical commuting hours during the week.
+The following findings are the most important takeaways from the research and the above results. These will be used to ensure that the project in De Moines, Iowa can be a successful program. The main target for advertising is men, they are the primary users. It is extremely important that bikes are located in densely populated areas. An incentivized program should be implemented. This could possibly encourage people to utilize the bikes during typical commuting hours during the week.
