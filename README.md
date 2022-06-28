@@ -1,8 +1,8 @@
 # New York City Citi Bike Analysis
-Purpose
+# Purpose
 The goal of the study was to leverage data from the Citi Bike programme in New York City to determine whether it could be replicated in De Moines, Iowa. To finish this research, I cleaned up the data using Python's pandas package and then produced visuals using Tableau.
 
-Results
+# Results
 In order to complete this analysis, I used Python's pandas library to clean up the data and then created visualizations of that data using Tableau. Throughout this analysis I wanted to answer the following questions:
 
 How long do users ride their bikes?
