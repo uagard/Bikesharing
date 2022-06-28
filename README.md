@@ -1,4 +1,4 @@
-# Bikesharing
+# New York City Citi Bike Analysis
 Purpose
 The goal of the study was to leverage data from the Citi Bike programme in New York City to determine whether it could be replicated in De Moines, Iowa. To finish this research, I cleaned up the data using Python's pandas package and then produced visuals using Tableau.
 
